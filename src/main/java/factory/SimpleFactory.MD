@@ -27,8 +27,8 @@
 简单工厂描述:
 
 ### UML图
-[foryou]:https://github.com/BXALearn/DesignPattern/blob/master/src/main/resources/Image/SimpleFactoryUML.png
-
+[foryou]:src/main/resources/Image/SimpleFactoryUML.png
+src/main/resources/Image/SimpleFactoryUML.png
 
 工厂方法
 ------
