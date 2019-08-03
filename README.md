@@ -11,9 +11,9 @@
 实现清单
 ------
 
-- [x] 简单工厂   [简单工厂](src/main/java/factory/SimpleFactory.MD)
-- [x] 工厂方法
-- [x] 抽象工厂
+- [x] [简单工厂](src/main/java/factory/SimpleFactory.MD)
+- [x] [工厂方法](src/main/java/factory/SimpleFactory.MD)
+- [x] [抽象工厂](src/main/java/factory/SimpleFactory.MD)
 - [ ] 建造者模式
 - [ ] 原型模式
 - [x] 单例模式
