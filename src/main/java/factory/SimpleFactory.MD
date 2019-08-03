@@ -27,11 +27,10 @@
 简单工厂描述:
 
 ### UML图
-[SimpleFactoryUML]:
-
+`![][SimpleFactoryUML]`
 
 ```
-https://github.com/BXALearn/DesignPattern/raw/master/src/main/resources/Image/SimpleFactoryUML.png
+![][SimpleFactoryUML]
 ```
  
 
