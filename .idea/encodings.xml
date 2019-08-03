@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Factoryconfig.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/HuaWeiPhone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Phone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/PhoneFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/XiaoMiPhone.java" charset="GBK" />
+  </component>
+</project>
