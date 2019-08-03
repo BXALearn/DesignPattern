@@ -1,7 +1,8 @@
-三个工厂模式   [主页介绍](/README.md)|
+三个工厂模式  
 ===========================
 
-
+ [跳转到主页](/README.md)
+ 
 ****
 	
 |名称|简单工厂|工厂方法|抽象工厂|
@@ -26,7 +27,7 @@
 简单工厂描述:
 
 ### UML图
-[foryou]:https://github.com/BXALearn/DesignPattern/src/main/resources/Image/SimpleFactoryUML.png
+[foryou]:https://github.com/BXALearn/DesignPattern/blob/master/src/main/resources/Image/SimpleFactoryUML.png
 
 
 工厂方法
