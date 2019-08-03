@@ -27,11 +27,8 @@
 简单工厂描述:
 
 ### UML图
-`![][SimpleFactoryUML]`
-
-```
 ![][SimpleFactoryUML]
-```
+
  
 
 工厂方法
