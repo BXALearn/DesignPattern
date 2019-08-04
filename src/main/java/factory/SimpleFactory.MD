@@ -34,8 +34,21 @@
 工厂方法
 ------
 
+### 说明
+工厂方法描述:
+
+### UML图
+![][FactoryMethodUML]
+
+
 抽象工厂
 ------
+
+### 说明
+抽象工厂描述:
+
+### UML图
+![][AbstractFactoryUML]
 
 
 --------------------------------
@@ -46,3 +59,5 @@
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
 [SimpleFactoryUML]:https://github.com/BXALearn/DesignPattern/raw/master/src/main/resources/Image/SimpleFactoryUML.png
+[FactoryMethodUML]:https://github.com/BXALearn/DesignPattern/raw/master/src/main/resources/Image/FactoryMethodUML.png
+[AbstractFactoryUML]:https://github.com/BXALearn/DesignPattern/raw/master/src/main/resources/Image/AbstractFactoryUML.png
