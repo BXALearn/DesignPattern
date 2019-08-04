@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="633682fb-2c02-4f56-82dc-5a9a1a77667d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/HuaWeiPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/PhoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/XiaoMiPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/singleton/SingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singleton/SingletonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type7/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singleton/type7/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factoryconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Factoryconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/FileTemp.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FileTemp.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/HuaWeiPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/PhoneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/XMLUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/XiaoMiPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/HuaWeiPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/HuaWeiPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/PhoneFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/PhoneFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/XMLUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/XiaoMiPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/XiaoMiPhone.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,11 +30,12 @@
     <session id="-846056740">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,105 +43,129 @@
           <entry key="JavaScript-modules-diagram/C:/ProjectOS/GitHub/DesignPattern/DesignPattern/src/main/java/factory/simplefactory" value="1" />
           <entry key="MD" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="33" />
+          <entry key="java" value="97" />
           <entry key="simplefactory" value="2" />
-          <entry key="xml" value="2" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="33" />
+          <entry key="JAVA" value="97" />
           <entry key="Markdown" value="2" />
           <entry key="UML" value="3" />
-          <entry key="XML" value="2" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="MD" value="13" />
           <entry key="dummy" value="36" />
-          <entry key="java" value="221" />
-          <entry key="xml" value="27" />
+          <entry key="java" value="295" />
+          <entry key="xml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="221" />
+          <entry key="JAVA" value="295" />
           <entry key="Markdown" value="13" />
           <entry key="PLAIN_TEXT" value="36" />
-          <entry key="XML" value="27" />
+          <entry key="XML" value="51" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/factory.simplefactory">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>factory.simplefactory</OriginalElement>
-              <nodes>
-                <node x="94.25" y="0.0">factory.simplefactory.Phone</node>
-                <node x="73.25" y="192.0">factory.simplefactory.PhoneFactory</node>
-                <node x="145.0" y="80.0">factory.simplefactory.HuaWeiPhone</node>
-                <node x="0.0" y="80.0">factory.simplefactory.XiaoMiPhone</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="factory.simplefactory.HuaWeiPhone" target="factory.simplefactory.Phone">
-                  <point x="0.0" y="-15.0" />
-                  <point x="210.0" y="55.0" />
-                  <point x="157.25" y="55.0" />
-                  <point x="21.0" y="15.0" />
-                </edge>
-                <edge source="factory.simplefactory.XiaoMiPhone" target="factory.simplefactory.Phone">
-                  <point x="0.0" y="-15.0" />
-                  <point x="62.5" y="55.0" />
-                  <point x="115.25" y="55.0" />
-                  <point x="-21.0" y="15.0" />
-                </edge>
-                <edge source="factory.simplefactory.PhoneFactory" target="factory.simplefactory.HuaWeiPhone">
-                  <point x="32.0" y="-15.0" />
-                  <point x="168.25" y="135.0" />
-                  <point x="210.0" y="135.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="factory.simplefactory.PhoneFactory" target="factory.simplefactory.XiaoMiPhone">
-                  <point x="-32.0" y="-15.0" />
-                  <point x="104.25" y="135.0" />
-                  <point x="62.5" y="135.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-174.0" y="178.5" />
-              <SelectedNodes />
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory/SimpleFactory.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="28">
-                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/PhoneFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="689">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/EFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HaierFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HaierTelevision.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HairAirConditioner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLAirConditioner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLTelevision.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Television.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XMLUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,6 +175,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -166,14 +196,33 @@
         <option value="$PROJECT_DIR$/src/main/java/singleton/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/TVFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/XMLUtilTV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/SimpleFactory.MD" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/XMLUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/Phone.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/HuaWeiPhone.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/XiaoMiPhone.java" />
-        <option value="$PROJECT_DIR$/Factoryconfig.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/SimpleFactory.MD" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/PhoneFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/Phone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/TV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/TVFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/HaierTVFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/HisenseTVFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/HisenseTV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/HaierTV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/AirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/EFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/HaierFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/HaierTelevision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/HairAirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLTelevision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/Television.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLAirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/Factoryconfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/XMLUtil.java" />
       </list>
     </option>
   </component>
@@ -199,10 +248,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="466" />
+    <option name="y" value="87" />
+    <option name="width" value="1059" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -214,7 +263,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,28 +296,23 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564800086296" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DesignPatterns" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564890832342" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -294,7 +337,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Client (2)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.factorymethod.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.abstractfactory.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factory.simplefactory.Client" />
       <module name="DesignPattern" />
@@ -324,9 +393,13 @@
     <list>
       <item itemvalue="Application.SingletonTest" />
       <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.SingletonTest" />
       </list>
@@ -346,22 +419,22 @@
       <workItem from="1564714505153" duration="1241000" />
       <workItem from="1564745013405" duration="403000" />
       <workItem from="1564797411291" duration="2604000" />
+      <workItem from="1564887019251" duration="2433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6796000" />
+    <option name="totallyTimeSpent" value="9229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26072386" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26407507" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -461,48 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/XMLUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="55" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/HuaWeiPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/XiaoMiPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factoryconfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JavaScript-modules-diagram/C:/ProjectOS/GitHub/DesignPattern/DesignPattern/src/main/java/factory/simplefactory">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -511,11 +542,12 @@
           <nodes />
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="551.5" y="191.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="552.0" y="192.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -558,7 +590,7 @@
               <point x="0.0" y="15.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-174.0" y="178.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-174.0" y="179.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -570,25 +602,277 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="28">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/HuaWeiPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/PhoneFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="140">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factoryconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/XiaoMiPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HaierTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HaierTVFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HisenseTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HisenseTVFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/TVFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/AirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/EFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HaierFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HaierTelevision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HairAirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLAirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLTelevision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Television.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DesignPattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,21 +1,27 @@
 package factory.simplefactory;
 
-public class Client
-{
-	public static void main(String args[])
-	{
-         try
-         {
-         	Phone phone;
-         	// ´ÓÅäÖÃÎÄ¼ş»ñÈ¡ÊÖ»úÃû³Æ
-         	String brandName= XMLUtil.getBrandName();
-			 // ´Ó¹¤³§·µ»ØÊµÀı»¯µÄ¶ÔÏó
-         	phone = PhoneFactory.produceTV(brandName);
-         	phone.play();
-         }
-         catch(Exception e)
-         {
-         	System.out.println(e.getMessage());
-         }
-	}
+/**
+ * Create by æ‘†æ¬£å®‰
+ * 2019/8/4 10:30
+ * ç®€å•å·¥å‚å®¢æˆ·ç«¯
+ */
+public class Client {
+
+    public static void main(String args[])
+    {
+        try
+        {
+            Phone phone;
+            // ä»é…ç½®æ–‡ä»¶è·å–æ‰‹æœºåç§°
+            String brandName= XMLUtil.getBrandName();
+            // ä»å·¥å‚è¿”å›å®ä¾‹åŒ–çš„å¯¹è±¡
+            phone = PhoneFactory.produceTV(brandName);
+            phone.play();
+        }
+        catch(Exception e)
+        {
+            System.out.println(e.getMessage());
+        }
+    }
+
 }

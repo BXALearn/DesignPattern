@@ -1,4 +1,4 @@
-package factory.simplefactory;
+package factory.factorymethod;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
@@ -10,12 +10,12 @@ import java.io.File;
 
 /**
  * Create by 摆欣安
- * 2019/8/4 10:45
+ * 2019/8/4 10:59
  */
 public class XMLUtil {
 
-    //该方法用于从XML配置文件中提取品牌名称，并返回该品牌名称
-    public static String getBrandName()
+    //该方法用于从XML配置文件中提取具体类类名，并返回一个实例对象
+    public static Object getBean()
     {
         try
         {
@@ -25,11 +25,15 @@ public class XMLUtil {
             Document doc;
             doc = builder.parse(new File("Factoryconfig.xml"));
 
-            //获取包含品牌名称的文本节点
-            NodeList nl = doc.getElementsByTagName("simpleFactory");
+            //获取包含类名的文本节点
+            NodeList nl = doc.getElementsByTagName("factoryMethodClassName");
             Node classNode=nl.item(0).getFirstChild();
-            String brandName=classNode.getNodeValue().trim();
-            return brandName;
+            String cName=classNode.getNodeValue();
+
+            //通过类名生成实例对象并将其返回
+            Class c=Class.forName(cName);
+            Object obj=c.newInstance();
+            return obj;
         }
         catch(Exception e)
         {
@@ -37,5 +41,4 @@ public class XMLUtil {
             return null;
         }
     }
-
 }
