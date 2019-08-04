@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+	<!--简单工厂.参数对象-->
+	<simpleFactory>HuaWei</simpleFactory>
+	<!--工厂方法.工厂类-->
+	<factoryMethodClassName>factory.factorymethod.XiaoMiPhoneFactory</factoryMethodClassName>
+	<!--抽象工厂.工厂类-->
+	<abstractFactoryClassName>factory.abstractfactory.HuaWeiFactory</abstractFactoryClassName>
+	<!--代理模式.代理类-->
+	<proxyClassName>proxy.type1.PermissionProxy</proxyClassName>
+	<!--策略模式.算法类-->
+	<strategyClassName>strategy.type1.BubbleSort</strategyClassName>
+	<!--模板方法.模板对象-->
+	<templateMethodClassName>templatemethod.type1.Transfer</templateMethodClassName>
+
+</config>

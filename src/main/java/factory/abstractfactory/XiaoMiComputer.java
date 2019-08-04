@@ -1,14 +1,14 @@
 package factory.abstractfactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 11:04
- * ¾ßÌå²úÆ·-Ğ¡Ã×±Ê¼Ç±¾
+ * å…·ä½“äº§å“-å°ç±³ç¬”è®°æœ¬
  */
 public class XiaoMiComputer implements Computer
 {
     public void starting() {
-        System.out.println("Ğ¡Ã×±Ê¼Ç±¾¿ª»úÖĞ......");
+        System.out.println("å°ç±³ç¬”è®°æœ¬å¼€æœºä¸­......");
     }
 }
 

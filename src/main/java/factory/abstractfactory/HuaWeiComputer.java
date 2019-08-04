@@ -1,13 +1,13 @@
 package factory.abstractfactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 11:03
- * ¾ßÌå²úÆ·-»ªÎª±Ê¼Ç±¾
+ * å…·ä½“äº§å“-åä¸ºç¬”è®°æœ¬
  */
 public class HuaWeiComputer implements Computer
 {
     public void starting() {
-        System.out.println("»ªÎª±Ê¼Ç±¾¿ª»úÖĞ......");
+        System.out.println("åä¸ºç¬”è®°æœ¬å¼€æœºä¸­......");
     }
 }

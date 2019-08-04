@@ -1,9 +1,9 @@
 package factory.simplefactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 10:42
- * ²úÆ·½Ó¿Ú
+ * äº§å“æ¥å£
  */
 public interface Phone {
     public void play();

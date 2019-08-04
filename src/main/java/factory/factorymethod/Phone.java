@@ -1,9 +1,9 @@
 package factory.factorymethod;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 10:58
- * ²úÆ·½Ó¿Ú
+ * äº§å“æ¥å£
  */
 public interface Phone {
     public void play();

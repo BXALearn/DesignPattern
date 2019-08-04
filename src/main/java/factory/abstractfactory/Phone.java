@@ -1,9 +1,9 @@
 package factory.abstractfactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 11:05
- * ²úÆ·½Ó¿Ú-ÊÖ»ú
+ * äº§å“æ¥å£-æ‰‹æœº
  */
 public interface Phone {
     public void play();

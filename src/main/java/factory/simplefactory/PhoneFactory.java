@@ -1,9 +1,9 @@
 package factory.simplefactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 10:43
- * ²úÆ·¹¤³§
+ * äº§å“å·¥å‚
  */
 public class PhoneFactory {
 
@@ -11,17 +11,17 @@ public class PhoneFactory {
     {
         if(brand.equalsIgnoreCase("HuaWei"))
         {
-            System.out.println("ÊÖ»ú¹¤³§Éú²ú»ªÎªÊÖ»ú£¡");
+            System.out.println("æ‰‹æœºå·¥å‚ç”Ÿäº§åä¸ºæ‰‹æœºï¼");
             return new HuaWeiPhone();
         }
         else if(brand.equalsIgnoreCase("XiaoMi"))
         {
-            System.out.println("ÊÖ»ú¹¤³§Éú²úĞ¡Ã×ÊÖ»ú£¡");
+            System.out.println("æ‰‹æœºå·¥å‚ç”Ÿäº§å°ç±³æ‰‹æœºï¼");
             return new XiaoMiPhone();
         }
         else
         {
-            throw new Exception("¶Ô²»Æğ£¬Ôİ²»ÄÜÉú²ú¸ÃÆ·ÅÆÊÖ»ú£¡");
+            throw new Exception("å¯¹ä¸èµ·ï¼Œæš‚ä¸èƒ½ç”Ÿäº§è¯¥å“ç‰Œæ‰‹æœºï¼");
         }
     }
 

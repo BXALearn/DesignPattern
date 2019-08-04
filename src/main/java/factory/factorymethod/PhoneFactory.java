@@ -1,9 +1,9 @@
 package factory.factorymethod;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 10:58
- * ¹¤³§½Ó¿Ú
+ * å·¥å‚æ¥å£
  */
 public interface PhoneFactory {
     public Phone producePhone();

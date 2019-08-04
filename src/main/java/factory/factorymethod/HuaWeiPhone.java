@@ -1,14 +1,14 @@
 package factory.factorymethod;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 10:56
- * ¾ßÌå²úÆ·Àà
+ * å…·ä½“äº§å“ç±»
  */
 public class HuaWeiPhone implements Phone {
 
     public void play()
     {
-        System.out.println("»ªÎªÊÖ»úÓÎÏ·ÖĞ......");
+        System.out.println("åä¸ºæ‰‹æœºæ¸¸æˆä¸­......");
     }
 }

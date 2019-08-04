@@ -1,15 +1,15 @@
 package factory.simplefactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 10:41
- * ¾ßÌåµÄ²úÆ·Àà
+ * å…·ä½“çš„äº§å“ç±»
  */
 public class HuaWeiPhone implements Phone{
 
     public void play()
     {
-        System.out.println("»ªÎªÊÖ»úÓÎÏ·ÖĞ......");
+        System.out.println("åä¸ºæ‰‹æœºæ¸¸æˆä¸­......");
     }
 
 }

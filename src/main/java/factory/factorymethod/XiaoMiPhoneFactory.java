@@ -1,14 +1,14 @@
 package factory.factorymethod;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 10:58
  */
 public class XiaoMiPhoneFactory implements PhoneFactory {
 
     public Phone producePhone()
     {
-        System.out.println("Ğ¡Ã×ÊÖ»ú¹¤³§Éú²úĞ¡Ã×ÊÖ»úÖĞ¡£");
+        System.out.println("å°ç±³æ‰‹æœºå·¥å‚ç”Ÿäº§å°ç±³æ‰‹æœºä¸­ã€‚");
         return new XiaoMiPhone();
     }
 }

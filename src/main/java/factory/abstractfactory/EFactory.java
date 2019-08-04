@@ -1,9 +1,9 @@
 package factory.abstractfactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 11:02
- * ¹¤³§½Ó¿Ú-Æ·ÅÆ
+ * å·¥å‚æ¥å£-å“ç‰Œ
  */
 public interface EFactory {
 

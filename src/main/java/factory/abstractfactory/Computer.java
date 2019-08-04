@@ -1,9 +1,9 @@
 package factory.abstractfactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 11:01
- * ²úÆ·½Ó¿Ú-µçÄÔ
+ * äº§å“æ¥å£-ç”µè„‘
  */
 public interface Computer {
     public void starting();

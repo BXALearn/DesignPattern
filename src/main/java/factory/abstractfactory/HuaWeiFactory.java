@@ -1,9 +1,9 @@
 package factory.abstractfactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 11:03
- * Æ·ÅÆ¹¤³§-»ªÎª
+ * å“ç‰Œå·¥å‚-åä¸º
  */
 public class HuaWeiFactory implements EFactory
 {

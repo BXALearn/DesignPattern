@@ -1,9 +1,9 @@
 package factory.abstractfactory;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 11:04
- * Æ·ÅÆ¹¤³§-Ğ¡Ã×
+ * å“ç‰Œå·¥å‚-å°ç±³
  */
 public class XiaoMiFactory implements EFactory
 {

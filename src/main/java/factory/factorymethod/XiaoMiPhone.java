@@ -1,13 +1,13 @@
 package factory.factorymethod;
 
 /**
- * Create by °ÚĞÀ°²
+ * Create by æ‘†æ¬£å®‰
  * 2019/8/4 10:57
  */
 public class XiaoMiPhone implements Phone {
 
     public void play()
     {
-        System.out.println("Ğ¡Ã×ÊÖ»úÓÎÏ·ÖĞ......");
+        System.out.println("å°ç±³æ‰‹æœºæ¸¸æˆä¸­......");
     }
 }
