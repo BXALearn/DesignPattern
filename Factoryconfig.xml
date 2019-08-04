@@ -2,6 +2,6 @@
 <config>
 	<!--简单工厂参数对象-->
 	<simpleFactory>HuaWei</simpleFactory>
-	<factoryMethodClassName>factory.factorymethod.HaierTVFactory</factoryMethodClassName>
-	<abstractFactoryClassName>factory.abstractfactory.HaierFactory</abstractFactoryClassName>
+	<factoryMethodClassName>factory.factorymethod.XiaoMiPhoneFactory</factoryMethodClassName>
+	<abstractFactoryClassName>factory.abstractfactory.HuaWeiFactory</abstractFactoryClassName>
 </config>

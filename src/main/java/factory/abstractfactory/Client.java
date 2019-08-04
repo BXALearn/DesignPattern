@@ -3,6 +3,7 @@ package factory.abstractfactory;
 /**
  * Create by 摆欣安
  * 2019/8/4 11:02
+ * 抽象工厂客户端
  */
 public class Client {
 
@@ -11,13 +12,13 @@ public class Client {
         try
         {
             EFactory factory;
-            Television tv;
-            AirConditioner ac;
+            Phone phone;
+            Computer computer;
             factory=(EFactory)XMLUtil.getBean();
-            tv=factory.produceTelevision();
-            tv.play();
-            ac=factory.produceAirConditioner();
-            ac.changeTemperature();
+            phone=factory.producePhone();
+            phone.play();
+            computer=factory.produceComputer();
+            computer.starting();
         }
         catch(Exception e)
         {

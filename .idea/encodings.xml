@@ -2,25 +2,25 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Factoryconfig.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/AirConditioner.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Computer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/EFactory.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HaierFactory.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HaierTelevision.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HairAirConditioner.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLAirConditioner.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLFactory.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/TCLTelevision.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Television.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiComputer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiPhone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Phone.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XiaoMiComputer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XiaoMiFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XiaoMiPhone.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/Client.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HaierTV.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HaierTVFactory.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HisenseTV.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HisenseTVFactory.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/TV.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/TVFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HuaWeiPhone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HuaWeiPhoneFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/Phone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/PhoneFactory.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/XiaoMiPhone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/XiaoMiPhoneFactory.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Client.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/HuaWeiPhone.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Phone.java" charset="GBK" />

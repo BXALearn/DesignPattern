@@ -3,6 +3,7 @@ package factory.factorymethod;
 /**
  * Create by 摆欣安
  * 2019/8/4 10:56
+ * 工厂方法客户端
  */
 public class Client {
 
@@ -10,11 +11,11 @@ public class Client {
     {
         try
         {
-            TV tv;
-            TVFactory factory;
-            factory=(TVFactory)XMLUtil.getBean();
-            tv=factory.produceTV();
-            tv.play();
+            Phone phone;
+            PhoneFactory factory;
+            factory=(PhoneFactory)XMLUtil.getBean();
+            phone=factory.producePhone();
+            phone.play();
         }
         catch(Exception e)
         {
