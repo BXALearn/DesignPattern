@@ -12,5 +12,7 @@
 	<strategyClassName>strategy.type1.BubbleSort</strategyClassName>
 	<!--模板方法.模板对象-->
 	<templateMethodClassName>templatemethod.type1.Transfer</templateMethodClassName>
-
+	<!--建造者模式-->
+	<bridgeClassName>bridge.type1.Blue</bridgeClassName>
+	<bridgeClassName>bridge.type1.SmallPen</bridgeClassName>
 </config>
