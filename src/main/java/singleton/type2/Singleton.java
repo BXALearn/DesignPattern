@@ -1,4 +1,4 @@
-package singleton.type2;
+package java.singleton.type2;
 
 /**
  * Create by 摆欣安

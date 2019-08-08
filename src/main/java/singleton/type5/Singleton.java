@@ -1,4 +1,4 @@
-package singleton.type5;
+package java.singleton.type5;
 
 /**
  * Create by 摆欣安

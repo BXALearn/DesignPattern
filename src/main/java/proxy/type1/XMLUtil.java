@@ -1,4 +1,4 @@
-package proxy.type1;
+package java.proxy.type1;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;

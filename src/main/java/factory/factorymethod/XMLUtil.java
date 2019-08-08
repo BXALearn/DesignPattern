@@ -1,4 +1,4 @@
-package factory.factorymethod;
+package java.factory.factorymethod;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;

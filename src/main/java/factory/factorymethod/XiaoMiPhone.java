@@ -1,4 +1,4 @@
-package factory.factorymethod;
+package java.factory.factorymethod;
 
 /**
  * Create by 摆欣安

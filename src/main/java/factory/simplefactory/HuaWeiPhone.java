@@ -1,4 +1,4 @@
-package factory.simplefactory;
+package java.factory.simplefactory;
 
 /**
  * Create by 摆欣安

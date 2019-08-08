@@ -1,4 +1,4 @@
-package factory.abstractfactory;
+package java.factory.abstractfactory;
 
 /**
  * Create by 摆欣安

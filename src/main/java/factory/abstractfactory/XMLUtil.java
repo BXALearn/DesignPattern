@@ -1,4 +1,4 @@
-package factory.abstractfactory;
+package java.factory.abstractfactory;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;

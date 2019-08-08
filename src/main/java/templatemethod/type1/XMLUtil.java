@@ -1,4 +1,4 @@
-package templatemethod.type1;
+package java.templatemethod.type1;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;

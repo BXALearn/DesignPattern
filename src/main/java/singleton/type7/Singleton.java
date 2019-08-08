@@ -1,4 +1,4 @@
-package singleton.type7;
+package java.singleton.type7;
 
 /**
  * Create by 摆欣安

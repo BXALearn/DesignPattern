@@ -1,4 +1,4 @@
-package strategy.type1;
+package java.strategy.type1;
 
 /**
  * Create by 摆欣安

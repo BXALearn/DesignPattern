@@ -1,4 +1,4 @@
-package proxy.type1;
+package java.proxy.type1;
 
 /**
  * Create by 摆欣安

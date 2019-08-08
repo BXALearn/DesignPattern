@@ -1,12 +1,12 @@
-package singleton;
+package java.singleton;
 
-import singleton.type1.Singleton;
-//import singleton.type2.Singleton;
-//import singleton.type3.Singleton;
-//import singleton.type4.Singleton;
-//import singleton.type5.Singleton;
-//import singleton.type6.Singleton;
-//import singleton.type7.Singleton;
+import java.singleton.type1.Singleton;
+//import java.singleton.type2.Singleton;
+//import java.singleton.type3.Singleton;
+//import java.singleton.type4.Singleton;
+//import java.singleton.type5.Singleton;
+//import java.singleton.type6.Singleton;
+//import java.singleton.type7.Singleton;
 
 /**
  * Create by 摆欣安

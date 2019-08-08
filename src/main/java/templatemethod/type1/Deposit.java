@@ -1,4 +1,4 @@
-package templatemethod.type1;
+package java.templatemethod.type1;
 
 /**
  * Create by 摆欣安

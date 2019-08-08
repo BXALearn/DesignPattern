@@ -1,4 +1,4 @@
-package singleton.type3;
+package java.singleton.type3;
 
 /**
  * Create by 摆欣安
