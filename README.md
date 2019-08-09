@@ -1,5 +1,7 @@
 Java设计模式Demo 
 ===========================
+[![Issues](https://img.shields.io/github/issues/BXALearn/DesignPattern.svg)](https://github.com/BXALearn/DesignPattern/issues)
+
 每种设计模式都可以有多种实现方案,期待大家多多补充,互相学习.
 ****
 ## 目录
