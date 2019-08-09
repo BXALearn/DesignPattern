@@ -20,7 +20,7 @@ Java设计模式Demo
 - [ ] 适配器模式
 - [ ] 桥接模式
 - [ ] 组合模式
-- [ ] 装饰模式
+- [x] [装饰模式](src/main/java/decorator/Decorator.MD)
 - [ ] 外观模式
 - [ ] 享元模式
 - [ ] 代理模式

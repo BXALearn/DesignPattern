@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="633682fb-2c02-4f56-82dc-5a9a1a77667d" name="Default Changelist" comment="" />
+    <list default="true" id="633682fb-2c02-4f56-82dc-5a9a1a77667d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/BigPen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/BigPen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/Black.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/Black.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/Blue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/Blue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/Green.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/MiddlePen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/MiddlePen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/Pen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/Pen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/Red.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/SmallPen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/SmallPen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/White.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/White.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bridge/XMLUtilPen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridge/type1/XMLUtilPen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/EFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/HuaWeiComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/HuaWeiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/HuaWeiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/XiaoMiComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/XiaoMiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/XiaoMiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/factorymethod/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/factorymethod/HuaWeiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/factorymethod/HuaWeiPhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/factorymethod/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/factorymethod/PhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/factorymethod/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/factorymethod/XiaoMiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/factorymethod/XiaoMiPhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/HuaWeiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/PhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/XiaoMiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proxy/type1/AbstractPermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proxy/type1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proxy/type1/PermissionProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proxy/type1/RealPermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proxy/type1/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/SingletonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type1/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type2/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type3/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type4/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type5/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type6/Singleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type6/Singleton$SingletonInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type6/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton/type7/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/type1/ArrayHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/type1/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/type1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/type1/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/type1/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/type1/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/type1/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/type1/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templatemethod/type1/BankTemplateMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templatemethod/type1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templatemethod/type1/Deposit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templatemethod/type1/Transfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templatemethod/type1/Withdraw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templatemethod/type1/XMLUtil.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,58 +83,73 @@
     <session id="-846056740">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JavaScript-modules-diagram/C:/ProjectOS/GitHub/DesignPattern/DesignPattern/src/main/java/factory/simplefactory" value="1" />
-          <entry key="MD" value="7" />
+          <entry key="MD" value="8" />
           <entry key="abstractfactory" value="2" />
           <entry key="factorymethod" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="166" />
-          <entry key="md" value="2" />
+          <entry key="java" value="182" />
+          <entry key="md" value="3" />
           <entry key="simplefactory" value="2" />
+          <entry key="type1" value="1" />
           <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="166" />
-          <entry key="Markdown" value="9" />
-          <entry key="UML" value="7" />
+          <entry key="JAVA" value="182" />
+          <entry key="Markdown" value="11" />
+          <entry key="UML" value="8" />
           <entry key="XML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="MD" value="109" />
-          <entry key="dummy" value="184" />
-          <entry key="java" value="594" />
-          <entry key="md" value="88" />
+          <entry key="MD" value="120" />
+          <entry key="dummy" value="209" />
+          <entry key="java" value="796" />
+          <entry key="md" value="101" />
           <entry key="xml" value="164" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="594" />
-          <entry key="Markdown" value="197" />
-          <entry key="PLAIN_TEXT" value="184" />
+          <entry key="JAVA" value="796" />
+          <entry key="Markdown" value="221" />
+          <entry key="PLAIN_TEXT" value="209" />
           <entry key="XML" value="164" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="224">
+                <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,18 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/HuaWeiPhoneFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/PhoneFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/HisenseTVFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/XiaoMiPhoneFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/Phone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/Computer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/XiaoMiPhone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/HairAirConditioner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiComputer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiPhone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/XiaoMiFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/EFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/abstractfactory/Client.java" />
@@ -131,6 +203,18 @@
         <option value="$PROJECT_DIR$/src/main/java/templatemethod/type1/XMLUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/proxy/type1/Client.java" />
         <option value="$PROJECT_DIR$/DesignPattern.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Decorator.MD" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Airplane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Changer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Robot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Transform.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Beverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/CondimentDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Ice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/type1/Milk.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -167,10 +251,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
-    <option name="y" value="6" />
-    <option name="width" value="1229" />
-    <option name="height" value="1030" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -180,6 +264,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,19 +292,24 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564919378246" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SpringCloud/SpringCloud/SpringCloud/order" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565312387971" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DesignPatterns" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -227,16 +318,16 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern\src\main\java\factory" />
+      <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern\src\main\java\decorator" />
       <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern\src\main\java\templatemethod" />
       <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern\src\main\java\strategy" />
       <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern\src\main\java\singleton" />
       <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern\src\main\java\proxy" />
-      <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern\src\main\java\factory" />
-      <recent name="C:\ProjectOS\GitHub\DesignPattern\DesignPattern" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -251,7 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
+  <component name="RunManager" selected="Application.Client (3)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="templatemethod.type1.Client" />
       <module name="DesignPattern" />
@@ -291,13 +382,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.type1.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.type1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
@@ -322,11 +428,12 @@
       <workItem from="1564887019251" duration="2433000" />
       <workItem from="1564900151150" duration="8682000" />
       <workItem from="1565136739707" duration="75000" />
+      <workItem from="1565310249341" duration="2224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17986000" />
+    <option name="totallyTimeSpent" value="20210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -336,16 +443,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.14745308" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18096514" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.32907802" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.3815603" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3815603" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -354,7 +461,7 @@
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.09651475" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.09651475" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -368,171 +475,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/XiaoMiPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/PhoneFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/XiaoMiPhoneFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/HuaWeiPhoneFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/factory.factorymethod">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>factory.factorymethod</OriginalElement>
-          <nodes>
-            <node x="" y="">factory.factorymethod.HuaWeiPhone</node>
-            <node x="" y="">factory.factorymethod.PhoneFactory</node>
-            <node x="" y="">factory.factorymethod.XiaoMiPhone</node>
-            <node x="" y="">factory.factorymethod.HuaWeiPhoneFactory</node>
-            <node x="" y="">factory.factorymethod.Client</node>
-            <node x="" y="">factory.factorymethod.XiaoMiPhoneFactory</node>
-            <node x="" y="">factory.factorymethod.Phone</node>
-            <node x="" y="">factory.factorymethod.XMLUtil</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="181.0" y="212.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XMLUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XiaoMiPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/XiaoMiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/EFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/HuaWeiComputer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractfactory/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/factory.abstractfactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>factory.abstractfactory</OriginalElement>
-          <nodes>
-            <node x="" y="">factory.abstractfactory.EFactory</node>
-            <node x="" y="">factory.abstractfactory.XiaoMiPhone</node>
-            <node x="" y="">factory.abstractfactory.XiaoMiFactory</node>
-            <node x="" y="">factory.abstractfactory.Phone</node>
-            <node x="" y="">factory.abstractfactory.HuaWeiPhone</node>
-            <node x="" y="">factory.abstractfactory.HuaWeiComputer</node>
-            <node x="" y="">factory.abstractfactory.XMLUtil</node>
-            <node x="" y="">factory.abstractfactory.HuaWeiFactory</node>
-            <node x="" y="">factory.abstractfactory.Computer</node>
-            <node x="" y="">factory.abstractfactory.Client</node>
-            <node x="" y="">factory.abstractfactory.XiaoMiComputer</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0893203883495148" x="52.0" y="200.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Television.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/proxy/TCLTelevision.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/proxy/TCLAirConditioner.java" />
@@ -746,11 +688,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/BigPen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/Black.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/Blue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/Green.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/MiddlePen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/Pen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/Red.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bridge/type1/SmallPen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Decorator.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="560">
+            <caret line="35" column="105" selection-start-line="35" selection-start-column="105" selection-end-line="35" selection-end-column="105" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/type1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/type1/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/type1/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/type1/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/type1/Ice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/type1/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/decorator.type1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>decorator.type1</OriginalElement>
+          <nodes>
+            <node x="" y="">decorator.type1.Beverage</node>
+            <node x="" y="">decorator.type1.Milk</node>
+            <node x="" y="">decorator.type1.Ice</node>
+            <node x="" y="">decorator.type1.Client</node>
+            <node x="" y="">decorator.type1.CondimentDecorator</node>
+            <node x="" y="">decorator.type1.Coffee</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="92.5" y="151.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-364">
-            <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <first_editor relative-caret-position="224">
+            <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
